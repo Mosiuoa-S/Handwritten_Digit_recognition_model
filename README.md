@@ -1,4 +1,4 @@
-# MNIST Handwritten Digit Recognition by 202101671 (Hashatsi KF), 202100003 (Sello MF), 202100402 (Sello RJ)
+# MNIST Handwritten Digit Recognition by Sello MF
 
 This program lets you train and test a neural network that can recognize handwritten digits (0-9). It uses the famous MNIST dataset as a training resource.
 
